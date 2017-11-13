@@ -1,0 +1,39 @@
+{
+  "name": "jssvg",
+  "version": "0.0.1",
+  "description": "composable svg tag functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "watch": "nodemon --ext js --exec jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coldpour/jssvg.git"
+  },
+  "keywords": [
+    "svg",
+    "xml",
+    "tag",
+    "functional",
+    "compose",
+    "composable",
+    "generate",
+    "dom",
+    "xhtml"
+  ],
+  "author": "Mike Holm <coldpour@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coldpour/jssvg/issues"
+  },
+  "homepage": "https://github.com/coldpour/jssvg#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "svg-tags": "^1.0.0",
+    "xmltag": "0.0.2"
+  }
+}
