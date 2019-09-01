@@ -34,6 +34,6 @@
   },
   "dependencies": {
     "svg-tags": "^1.0.0",
-    "xmltag": "0.0.2"
+    "xmltag": "^1.0.0"
   }
 }
