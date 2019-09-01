@@ -1,6 +1,6 @@
 {
   "name": "jssvg",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "composable svg tag functions",
   "main": "index.js",
   "scripts": {
